@@ -51,7 +51,14 @@ Focus on employee satisfaction programs
 Provide career growth opportunities
 📊 Sample Visualizations
 
-(Add your images here)
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/0c102e02-bf21-48ac-8397-742b1dc8f0c7" />
+
+<img width="743" height="573" alt="image" src="https://github.com/user-attachments/assets/08cebb5b-5d7b-4a88-acc6-9ad3c263af33" />
+
+<img width="589" height="432" alt="image" src="https://github.com/user-attachments/assets/96c48471-12e8-45d8-aed4-670030d72b90" />
+
+
+
 
 🚀 Conclusion
 
